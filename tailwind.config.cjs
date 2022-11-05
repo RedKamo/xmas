@@ -12,6 +12,20 @@ module.exports = {
           '100%': { transform: 'translateX(-100%)' },
         },
       },
+      fontFamily: {
+        alegreya: ['"Alegreya Sans"', 'sans-serif']
+      },
+      backgroundImage: {
+        'desktop-back': "url('./src/assets/desktop_bg.png')",
+        'phone-back': "url('./src/assets/phone_bg.png')",
+        'test': "url('./src/assets/test.png')",
+        'hero-back': "url('./src/assets/hero-back.png')",
+
+      },
+      colors: {
+        'red-custom': "#FF5D58",
+        'green-custom': "#49B752",
+      }
     },
   },
   plugins: [],
