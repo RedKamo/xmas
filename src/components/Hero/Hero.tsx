@@ -1,4 +1,4 @@
-import wavehero from "@/assets/ww.png";
+import wavehero from "@/assets/hero-wave.png";
 import santa from "@/assets/santa_hero.png";
 export const Hero = () => {
   return (
