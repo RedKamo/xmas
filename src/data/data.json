@@ -1,52 +1,62 @@
 [
     {
         "id": 1,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client1.png",
         "name": "camilo suarez",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 2,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client2.png",
         "name": "Iorgos McGaughay",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 3,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client3.png",
         "name": "Andy stan",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 4,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client4.png",
         "name": "Garen garen",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 5,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client5.png",
         "name": "Miss Fortune",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 6,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client6.png",
         "name": "Viktor asdwa",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 7,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client7.png",
         "name": "Bard the bard",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 8,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client8.png",
         "name": "Another Igors",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 9,
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client9.png",
         "name": "Jax jaximus",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     },
     {
         "id": 10,
-        "name": "Sylas demacia",
-        "opinion": " its a great services awesome services thanks for the great services"
+        "img": "https://raw.githubusercontent.com/RedKamo/xmas/main/src/assets/client10.png",
+        "name": "Andrea smith",
+        "opinion": "Praesent ut lacinia ipsum. Vestibulum orci mauris, elementum a venenatis eu, rutrum a tellus. Duis a elit metus. Nunc consectetur elit et egestas imperdiet. Donec et nulla ultrices, lobortis orci at, mollis diam. Ut in orci tellus. Integer ac massa libero."
     }
 ]

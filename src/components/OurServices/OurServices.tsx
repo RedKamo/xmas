@@ -9,7 +9,7 @@ const OurServices = () => {
   return (
     <main className="bg-red-custom">
       <img src={serviceswave} alt="" className="w-full" />
-      <h1 className=" py-10 md:py-32 text-center pt-12 text-2xl md:text-4xl text-slate-900 font-bold">
+      <h1 className=" py-10 md:py-32 text-center pt-12 text-2xl md:text-5xl text-slate-900 font-bold">
         Our services
       </h1>
       <section className="font-bold text-slate-100 max-w-[1180px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 w-full h-full place-items-center">
