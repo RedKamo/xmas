@@ -3,3 +3,7 @@
     height: 100px;
     background: red
   }
+
+.backk {
+  clip-path: circle(100.0% at 100% 0);
+}
