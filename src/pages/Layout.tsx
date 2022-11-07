@@ -1,4 +1,5 @@
 import Contact from "@/components/Contact/Contact";
+import Footer from "@/components/Footer";
 import { Hero } from "@/components/Hero/Hero";
 import Services from "@/components/OurServices/OurServices";
 import ClientList from "@/components/testimonials/ClientList";
@@ -11,6 +12,7 @@ const Layout = () => {
       <Services />
       <ClientList />
       <Contact />
+      <Footer />
     </main>
   );
 };

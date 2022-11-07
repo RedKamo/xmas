@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 const OurServices = () => {
   return (
-    <main className="bg-red-custom">
+    <main className="bg-red-custom" id="Services">
       <img src={serviceswave} alt="" className="w-full" />
       <h1 className=" py-10 md:py-32 text-center pt-12 text-2xl md:text-5xl text-slate-900 font-bold">
         Our services
@@ -16,7 +16,7 @@ const OurServices = () => {
         <motion.article
           className="flex items-center  gap-4 p-6 rounded-xl bg-green-custom h-40"
           whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.4 }}
+          whileTap={{ scale: 0.9 }}
           transition={{ type: "spring", stiffness: 400, damping: 17 }}
         >
           <h2 className="text-4xl">Blast Lights</h2>
@@ -25,7 +25,7 @@ const OurServices = () => {
         <motion.article
           className="flex items-center  gap-4 p-6 rounded-xl bg-blue-custom  h-40"
           whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.1 }}
+          whileTap={{ scale: 0.9 }}
           transition={{ type: "spring", stiffness: 400, damping: 17 }}
         >
           <h2 className="text-4xl">Tree Decor</h2>

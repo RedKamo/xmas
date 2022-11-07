@@ -2,7 +2,7 @@ import contactsanta from "@/assets/santa-contact.png";
 
 const Contact = () => {
   return (
-    <main className="  bg-dark-black">
+    <main className="  bg-dark-black pb-32" id="Contact">
       <section className="max-w-[1180px] mx-auto flex flex-col items-center md:flex-row justify-center gap-5">
         <section className="w-full py-20 px-4 ">
           <form action="#" className="space-y-8 p-8 bg-black-custom rounded-xl">

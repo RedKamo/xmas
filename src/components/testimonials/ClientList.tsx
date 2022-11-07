@@ -6,7 +6,7 @@ console.log("from clientlist", data);
 
 const ClientList = () => {
   return (
-    <main className="  bg-red-custom ">
+    <main className="  bg-red-custom" id="Clients">
       <h1 className=" py-10 md:py-32 text-center pt-12 text-2xl md:text-5xl text-slate-900 font-bold">
         Our Clients...
       </h1>
@@ -21,7 +21,7 @@ const ClientList = () => {
         ))}
       </section>
 
-      <article className="flex items-center justify-center">
+      <article className="flex items-center justify-center pt-14">
         <img src={santaclient} className="z-40 -mb-12 text-center" alt="" />
       </article>
       <img src={waveclient} className="w-full " alt="" />
