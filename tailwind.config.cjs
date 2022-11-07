@@ -16,7 +16,7 @@ module.exports = {
         alegreya: ['"Alegreya Sans"', 'sans-serif']
       },
       backgroundImage: {
-        'footer-back': "url('./footer-back.png')",
+        'footer-back': "url('/footer-back.png')",
 
       },
       colors: {
