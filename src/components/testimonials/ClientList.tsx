@@ -6,7 +6,7 @@ console.log("from clientlist", data);
 
 const ClientList = () => {
   return (
-    <main className="  bg-red-custom min-h-screen ">
+    <main className="  bg-red-custom ">
       <h1 className=" py-10 md:py-32 text-center pt-12 text-2xl md:text-5xl text-slate-900 font-bold">
         Our Clients...
       </h1>

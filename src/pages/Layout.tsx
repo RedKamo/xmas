@@ -1,3 +1,4 @@
+import Contact from "@/components/Contact/Contact";
 import { Hero } from "@/components/Hero/Hero";
 import Services from "@/components/OurServices/OurServices";
 import ClientList from "@/components/testimonials/ClientList";
@@ -9,6 +10,7 @@ const Layout = () => {
       <Timer />
       <Services />
       <ClientList />
+      <Contact />
     </main>
   );
 };
