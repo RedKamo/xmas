@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <footer className=" bg-footer-back  text-center py-10 ">
-      <p className="text-lg text-white font-bold backdrop-blur-sm bg-black-custom/30 border-2 py-10 border-dark-black ">
-        Developed By Camilo Suarez 👨🏾‍💻
+    <footer className=" bg-footer-back  text-center  ">
+      <p className="text-lg text-white font-bold backdrop-grayscale-0 bg-black-custom/60 border-2 py-10 border-dark-black ">
+        Developed by Camilo Suarez 👨🏾‍💻
       </p>
     </footer>
   );

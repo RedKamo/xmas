@@ -4,7 +4,7 @@ const Navbar = () => {
     <main className="  bg-red-custom pb-10">
       <section className="max-w-[1180px] mx-auto flex justify-between items-center py-10">
         <img src={AwesomeLogo} className="w-14" alt="" />
-        <ul className="flex border-2 border-blue-300 gap-14 py-4 ">
+        <ul className="flex gap-14 py-4 ">
           <li>
             <a href="#">Home</a>
           </li>
